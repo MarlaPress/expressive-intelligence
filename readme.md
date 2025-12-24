@@ -39,7 +39,8 @@ Proof of Impact
 
 Connect
 
-Learn more or collaborate → <https://linkedin.com/in/MarlaAPress>
+Learn more or collaborate → <https://linkedin.com/in/MarlaAPress> and https://medium.com/@m.press
 
 See canonical_index.md for complete structure when available.  
 For full metadata, refer to footer.md.
+
