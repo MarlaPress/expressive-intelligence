@@ -37,10 +37,19 @@ Proof of Impact
 
 - Developed and taught the E‑IQ frameworks through group workshops and 1:1 coaching, both in-person and virtually, with rave feedback on their emotional clarity and real-world results.
 
-Connect
+### 📚 Explore More
 
-Learn more or collaborate → <https://linkedin.com/in/MarlaAPress> and https://medium.com/@m.press
+Dive deeper into the Expressive Intelligence™ system in the [Wiki](https://github.com/MarlaPress/expressive-intelligence/wiki):
+
+- [What Is Expressive Intelligence?](https://github.com/MarlaPress/expressive-intelligence/wiki/What-Is-Expressive-Intelligence)
+- [Why It Matters Now](https://github.com/MarlaPress/expressive-intelligence/wiki/Why-It-Matters-Now)
+- [The E-IQ Framework](https://github.com/MarlaPress/expressive-intelligence/wiki/The-E-IQ-Framework)
+- [The Parts Play Model](https://github.com/MarlaPress/expressive-intelligence/wiki/The-Parts-Play-Model)
+- [Core Benefits of E-IQ](https://github.com/MarlaPress/expressive-intelligence/wiki/Core-Benefits-of-E-IQ)
+- [The E-IQ Evolution Ladder](https://github.com/MarlaPress/expressive-intelligence/wiki/The-E-IQ-Evolution-Ladder)
+ 
+
+Learn more, connect, or collaborate → <https://linkedin.com/in/MarlaAPress> and <https://medium.com/@m.press>
 
 See canonical_index.md for complete structure when available.  
 For full metadata, refer to footer.md.
-
