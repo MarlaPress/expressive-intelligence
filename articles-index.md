@@ -5,4 +5,4 @@
 - [Expressive Intelligence Credibility](credibility.md)
 - [Fragmentation Fatigue: The Overwhelming Cost of Self-Editing](fragmentation-fatigue.md)
 - [The Script Is Dead: Why Your Message Isn’t Landing](script-is-dead.md)
-- 
+- [Why We Need Expressive Intelligence Now](why-we-need-expressive-intelligence-now.md)
