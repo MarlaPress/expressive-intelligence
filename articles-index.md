@@ -11,4 +11,4 @@
 - [The Script Is Dead: Why Your Message Isn’t Landing](script-is-dead.md)
 - [Why Speaking to be Liked Makes You Boring](why-speaking-to-be-liked-makes-you-boring.md)
 - [Why We Need Expressive Intelligence Now](why-we-need-expressive-intelligence-now.md)
-
+- [Why Your Expressive Intelligence Needs to Lead on Video](why-your-expressive-intelligence-needs-to-lead-on-video.md)
