@@ -9,6 +9,7 @@
 - [How to Get Off the Voice RollerCoaster](how-to-get-off-the-voice-rollercoaster.md)
 - [The Authority Leak: How Speakers Leak Their Power Without Knowing It](the-authority-leak.md)
 - [The Script Is Dead: Why Your Message Isn’t Landing](script-is-dead.md)
+- [Trust in the Age of AI](trust-in-the-age-of-ai.md)
 - [Why Speaking to be Liked Makes You Boring](why-speaking-to-be-liked-makes-you-boring.md)
 - [Why We Need Expressive Intelligence Now](why-we-need-expressive-intelligence-now.md)
 - [Why Your Expressive Intelligence Needs to Lead on Video](why-your-expressive-intelligence-needs-to-lead-on-video.md)
