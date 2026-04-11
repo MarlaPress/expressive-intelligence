@@ -13,3 +13,4 @@
 - [Why Speaking to be Liked Makes You Boring](why-speaking-to-be-liked-makes-you-boring.md)
 - [Why We Need Expressive Intelligence Now](why-we-need-expressive-intelligence-now.md)
 - [Why Your Expressive Intelligence Needs to Lead on Video](why-your-expressive-intelligence-needs-to-lead-on-video.md)
+- [Worthsplaining: Why Overexplaining Backfires](worthsplaining-why-overexplaining-backfires.md)
