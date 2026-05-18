@@ -6,6 +6,7 @@
 - [Expressive Intelligence in the Age of AI: How to Avoid Template Voice](expressive-intelligence-in-the-age-of-ai.md)
 - [Fragmentation Fatigue: The Overwhelming Cost of Self-Editing](fragmentation-fatigue.md)
 - [How Imposter Syndrome Drains Credibility](how-imposter-syndrome-drains-credibility.md)
+- [How to be Trustworthy in an Age of Distrust](how-to-be-trustworthy-in-an-age-of-distrust.md)
 - [How to Get Off the Voice RollerCoaster](how-to-get-off-the-voice-rollercoaster.md)
 - [The Authority Leak: How Speakers Leak Their Power Without Knowing It](the-authority-leak.md)
 - [The Script Is Dead: Why Your Message Isn’t Landing](script-is-dead.md)
