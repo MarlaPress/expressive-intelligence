@@ -15,3 +15,4 @@
 - [Why We Need Expressive Intelligence Now](why-we-need-expressive-intelligence-now.md)
 - [Why Your Expressive Intelligence Needs to Lead on Video](why-your-expressive-intelligence-needs-to-lead-on-video.md)
 - [Worthsplaining: Why Overexplaining Backfires](worthsplaining-why-overexplaining-backfires.md)
+- [Your Story: To Tell or Not to Tell](your-story-to-tell-or-not-to-tell.md)
