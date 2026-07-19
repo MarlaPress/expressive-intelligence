@@ -1,5 +1,5 @@
 ## Expressive Intelligence Article Library
-
+- [Confidence is Not a Performance](confidence-is-not-a-performance.md)
 - [Expressive Intelligence Primer](expressive-intelligence-primer.md)
 - [Expressive Intelligence System](expressive-intelligence-system.md)
 - [Expressive Intelligence Credibility](credibility.md)
